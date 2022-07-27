@@ -1,6 +1,7 @@
 # Check out all the cool gadgets in our store
 ---
 Creator : Tayab Ajmal.
+
 Date : 26th of July, 2022.
 
 Time to complete this project : unknown, needs to be updated once done.
