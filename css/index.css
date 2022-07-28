@@ -1,5 +1,10 @@
 *{
+    font-family: 'Poppins', sans-serif;
     /*border: 2px solid red;*/
+}
+
+body{
+    padding: 20px;
 }
 
 .nav-bar{
@@ -25,7 +30,7 @@
 
 .discount{
     display: inline;
-    height:150px;
+    height:160px;
     position: absolute;
     margin-top: 400px;
 
@@ -40,11 +45,23 @@
 }
 
 .action-btn{
+    display: inline;
     position: absolute;
     margin-left: 250px;
-    background-color: #e97348;
+    background-color: #FF7F50;
     border-radius: 10px;
     padding: 10px 20px 10px 20px;
     color: white;
     border: none;
+}
+
+.left-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+}
+
+.text{
+    opacity: 50%;
 }
